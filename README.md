@@ -1,7 +1,23 @@
 # Content-Based Recommendation System
 
 ## Introduction
-This project is a recommendation system using the Content-Based approach. The system utilizes the Ridge Regression model to find weights for the importance of features in target items. The input data includes user information and ratings for items.
+I implemented two recommendation algorithms: Content Filtering and Collaborative Filtering.
+
+1. Content Filtering:
+
+   - I created vector representations for each movie using TF-IDF.
+
+   - I trained ridge regression models for each user to determine weights.
+
+   - I constructed a linear regression model utilizing these weights to predict and recommend movie ratings.
+
+2. Collaborative Filtering:
+
+   - I utilized two approaches: item-item and user-user.
+
+   - I calculated cosine similarity between items or users.
+
+   - I implemented a KNN model by selecting K similar users/items to predict rating scores. 
 
 ## Environment Setup
 1. Install Python libraries: `numpy`, `scikit-learn`,`pandas`.
