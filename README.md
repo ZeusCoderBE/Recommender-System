@@ -13,11 +13,11 @@ The data used includes user information (age, gender, occupation),movies(Title,G
 
 1. Content Filtering:
 
-   - I created vector representations for each movie using TF-IDF.
+   - I created a vector representation for each movie using TF-IDF.
 
-   - I trained ridge regression models for each user to determine weights.
+   - I trained a ridge regression model for each user to learn the weights.
 
-   - I constructed a linear regression model utilizing these weights to predict and recommend movie ratings.
+   - I used these weights to predict and recommend movie ratings.
 
 2. Collaborative Filtering:
 
