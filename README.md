@@ -8,6 +8,15 @@
 
 ### Data
 The data used includes user information (age, gender, occupation),movies(Title,Genre) and their ratings for movies. This data is split into training(ua.base) and test(ua.test) sets.
+### The main idea of the two algorithms Content Filtering and Collaborative Filtering
+- Content Filtering :Suggest items based on the user's profile or based on the content/attributes of items similar to items the user has selected in the past.
+  
+![image](https://github.com/ZeusCoderBE/Recommender-System/assets/117000361/2714e86a-b43a-4bc2-b9ba-fc125739931e)
+
+-Suggest items based on similarity between users and/or items. It can be understood that this is a way to suggest a user based on users with similar behavior.
+
+![image](https://github.com/ZeusCoderBE/Recommender-System/assets/117000361/ed58ed37-ef56-4d87-bd19-38f33bcfa057)
+
 
 ### I implemented two recommendation algorithms: Content Filtering and Collaborative Filtering.
 
