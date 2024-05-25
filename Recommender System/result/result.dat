@@ -1,16 +1,18 @@
+Dataset Name:100K,Model:Hybrid of KNN-item-item with Content-based,Size:9430,RMSE:0.9748255817540873
+Dataset Name:100K,Model:Hybrid of KNN-user-user with Content-based,Size:9430,RMSE:1.002757623030903
+Dataset Name:100K,Model:KNN-User-User,K:30,Size:9430,RMSE:0.9963187578181227
+Dataset Name:100K,Model:ridge regression,Size:9430,RMSE:1.0439915726421543
+Dataset Name:100K,Model:KNN-Item-Item,K:30,Size:9430,RMSE:0.9867912132705395
+Dataset Name:100K,Model:KNN-User-User Update,K:30,Size:9430,RMSE:0.9961374362385017
+Dataset Name:100K,Model:KNN-Item-Item Update,K:30,Size:9430,RMSE:0.9879550368558497
+100K::1::2::20::10::0.01::0.1::0.9759113019817389
+100K::1::2::20::20::0.01::0.1::0.9759111311840474
+100K::1::2::20::10::0.01::0.1::3.058744888671733
+100K::1::2::20::20::0.01::0.1::3.0587448886716264
+100K::1::2::20::10::0.01::0.1::3.0587448886717294
+100K::1::2::20::20::0.01::0.1::3.0587448886716184
 Dataset Name:100K,Model:KNN-User-User,K:30,Size:9430,RMSE:0.9963187578181227
 Dataset Name:100K,Model:KNN-Item-Item,K:30,Size:9430,RMSE:0.9867912132705395
-Dataset Name:100K,Model:ridge regression,Size:9430,RMSE:1.0245214253474164
-Dataset Name:100K,Model:ridge regression,Size:9430,RMSE:1.0245214253474164
-Dataset Name:100K,Model:ridge regression,Size:9430,RMSE:1.0245214253474164
-Dataset Name:100K,Model:ridge regression,Size:9430,RMSE:1.0245214253474164
-Dataset Name:100K,Model:ridge regression,Size:9430,RMSE:1.0245214253474164
-Dataset Name:100K,Model:ridge regression,Size:9430,RMSE:1.0245214253474164
-Dataset Name:100K,Model:ridge regression,Size:9430,RMSE:1.0245214253474164
-Dataset Name:100K,Model:KNN-User-User,K:30,Size:9430,RMSE:0.9963187578181227
-Dataset Name:100K,Model:KNN-Item-Item,K:30,Size:9430,RMSE:0.9867912132705395
-Dataset Name:100K,Model:KNN-User-User,K:30,Size:9430,RMSE:0.9963187578181227
-Dataset Name:100K,Model:KNN-Item-Item,K:30,Size:9430,RMSE:0.9867912132705395
-Dataset Name:100K,Model:KNN-User-User,K:30,Size:9430,RMSE:0.9963187578181227
-Dataset Name:100K,Model:KNN-Item-Item,K:30,Size:9430,RMSE:0.9867912132705395
+Dataset Name:100K,Model:ridge regression,Size:9430,RMSE:1.0439915726421543
+Dataset Name:100K,Model:ridge regression,Size:9430,RMSE:1.0439915726421543
 Dataset Name:100K,Model:ridge regression,Size:9430,RMSE:1.0245214253474164
