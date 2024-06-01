@@ -43,9 +43,3 @@ The data used includes user information (age, gender, occupation),movies(Title,G
 
 ### Performance Evaluation
 - Utilize Root Mean Squared Error (RMSE) to assess the accuracy of the model on the test set.
-
-### Development Orientation 
-- I will use a hybrid method between collaborative filtering and content filtering. The idea is that after building two algorithms, collaborative filtering and content filtering, use these two models to predict ratings for the test set. Then I will add the average rating of the two predicted results and then suggest it to the user
-
-### Conclusion
-- This project provides a foundation for building a recommendation system using the Content-Based and Collaborative Filtering approach . The model has been trained and evaluated on real-world data to ensure good performance on recommendation tasks.
