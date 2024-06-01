@@ -22,11 +22,11 @@ The data used includes user information (age, gender, occupation),movies(Title,G
 
 1. Content Filtering:
 
-   - I created a vector representation for each movie using TF-IDF.
+    - I created a vector representation for each movie using TF- IDF (item profiles). 
 
-   - I trained a ridge regression model for each user to learn the weights.
+    - I trained a ridge regression model for each user to learn the weights(user profiles).
 
-   - I used these weights to predict and recommend movie ratings.
+    - I used  item profiles and user profiles to predict and recommend movie ratings.
 
 2. Collaborative Filtering:
 
@@ -34,7 +34,7 @@ The data used includes user information (age, gender, occupation),movies(Title,G
 
    - I calculated cosine similarity between items or users.
 
-   - I implemented a KNN model by selecting K similar users/items to predict rating scores. 
+   - I implemented a KNN model by selecting K similar users/items to predict rating scores.   
 
 ### Libraries and Technologies
 - **Programming Language:** Python
