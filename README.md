@@ -34,7 +34,13 @@ The data used includes user information (age, gender, occupation),movies(Title,G
 
    - I calculated cosine similarity between items or users.
 
-   - I implemented a KNN model by selecting K similar users/items to predict rating scores.   
+   - I implemented a KNN model by selecting K similar users/items to predict rating scores.
+    
+3. Hybrid between collaborative filtering and content filtering
+
+  - After predicting the rating in the test set, I combined the predicted rating in the two algorithm
+
+  - I reevaluated using the RMSE measure
 
 ### Libraries and Technologies
 - **Programming Language:** Python
