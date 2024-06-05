@@ -1,4 +1,4 @@
-# Recommender System
+# Recommendation System
 
 ## Introduction
 
